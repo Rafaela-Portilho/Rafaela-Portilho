@@ -1,7 +1,7 @@
 -  Hi, I’m Rafaela Portilho
 -  I’m interested in buscar novas aventuras
 -  I’m currently da engenharia da computação 
--  I’m looking to collaborate on desolvimento de melhoria
+-  I’m looking to collaborate on desolvimento de melhorias de sites
 -  How to reach me email e contato
 -  Pronouns: ela 
 -  Fun fact: gosto de pizza
