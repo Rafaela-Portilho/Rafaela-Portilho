@@ -1,4 +1,4 @@
--  Hi, I’m Rafaela-Portilho
+-  Hi, I’m Rafaela Portilho
 -  I’m interested in buscar novas aventuras
 -  I’m currently engenharia da computação 
 -  I’m looking to collaborate on desolvimento de melhoria
